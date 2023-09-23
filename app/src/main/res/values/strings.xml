@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyRuns1</string>
+
+    <string name="edit_name_hint">Your Name</string>
+    <string name="edit_email_hint">Your Email</string>
+    <string name="edit_phone_hint">Your Phone Number</string>
+    <string name="edit_class_hint">Your Class</string>
+    <string name="edit_major_hint">Your Major</string>
+
+    <string name="profile_photo_label">Profile Photo</string>
+    <string name="take_photo_btn_text">CHANGE</string>
+
+    <string name="name_label">Name</string>
+    <string name="email_label">Email</string>
+    <string name="phone_label">Phone</string>
+    <string name="class_label">Class</string>
+    <string name="major_label">Major</string>
+    <string name="gender_label">Gender</string>
+
+    <string name="male_btn_label">Male</string>
+    <string name="female_btn_label">Female</string>
+    <string name="save_btn_text">SAVE</string>
+    <string name="cancel_btn_text">CANCEL</string>
+
+
+    <string name="my_shared_preference">my_shared_preference</string>
+
+</resources>
